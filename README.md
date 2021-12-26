@@ -1,3 +1,45 @@
+# Curso de Laravel 5.8
+## TutorialesVirtuales (Roosvelt Aristizabal)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=UG0E3FsMzq4&list=PLZhE4t9ih5N1hiHPPjrT6CycQJeSAvq3V)
+
+### Lista de aulas  
+
+Aula 01 - Instalação - Ferramentas iniciais  
+Aula 02 - Instalação e configuração Visual Studio Code  
+Aula 04 - Modelo Entidade Relação  
+Aulas 05 e 06 - Migrations  
+Aula 08 - Seeders - Model Factory  
+Aula 09 - Routes  
+Aula 10 - Blade - AdminLTE I  
+Aula 11 - Blade - AdminLTE II  
+Aula 12 - Blade - AdminLTE III  
+Aula 13 - Sistema de Menus  
+Aula 14 - Sistema de Menus - CRUD  
+Aula 15 - Sistema de Menus - Validación Formularios  
+Aula 16 - Sistema de Menus - Validação desde o cliente  
+Aula 17 - Sistema de Menus - Listado  
+Aula 18 - Roles e Rol Menu  
+Aula 19 - Menu Rol e relações Eloquent  
+Aula 20 - Autenticação I  
+Aula 21 - Autenticação II  
+Aula 27 - Menu dinâmico - Parte frontal - Biblioteca  
+Aula 28 - Fim do CRUD Menu  
+Aula 29 - Sistema de Permisos - Parte I  
+Aula 30 - Sistema de Permisos - Parte II (Permiso-Rol)  
+Aula 31 - Cache em Laravel  
+Aula 34 - CRUD Usuário I  
+Aula 35 - CRUD Usuário II  
+Aula 35 - CRUD Usuário III  
+Aula 40 - Autenticação com vários roles - I  
+Aula 41 - Autenticação com vários roles - II  
+Aula 42 - Subir arquivos e tratamento de imagens  
+Aula 43 - Mostrar imagens subidas  
+Aula 44 - Subir arquivos a dropbox  
+Aula 45 - Modelo Livro terminado  
+
+##
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
