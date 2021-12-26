@@ -38,8 +38,6 @@ Aula 43 - Mostrar imagens subidas
 Aula 44 - Subir arquivos a dropbox  
 Aula 45 - Modelo Livro terminado  
 
-##
-
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
