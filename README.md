@@ -1,9 +1,13 @@
 # Curso de Laravel 5.8
 ## TutorialesVirtuales (Roosvelt Aristizabal)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=UG0E3FsMzq4&list=PLZhE4t9ih5N1hiHPPjrT6CycQJeSAvq3V)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=UG0E3FsMzq4&list=PLZhE4t9ih5N1hiHPPjrT6CycQJeSAvq3V)  
 
 Aula 01 - Instalação - Ferramentas iniciais  
 Aula 02 - Instalação e configuração Visual Studio Code  
