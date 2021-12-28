@@ -11,8 +11,11 @@ composer install
 
 Aula 01 - Instalação - Ferramentas iniciais  
 Aula 02 - Instalação e configuração Visual Studio Code  
+Aula 03 - Configuração do Laragon  
 Aula 04 - Modelo Entidade Relação  
-Aulas 05 e 06 - Migrations  
+Aula 05 - Migrations - Parte 1  
+Aula 06 - Migrations - Parte 2  
+Aula 07 - Atualizando o Laravel  
 Aula 08 - Seeders - Model Factory  
 Aula 09 - Routes  
 Aula 10 - Blade - AdminLTE I  
@@ -27,14 +30,24 @@ Aula 18 - Roles e Rol Menu
 Aula 19 - Menu Rol e relações Eloquent  
 Aula 20 - Autenticação I  
 Aula 21 - Autenticação II  
+Aula 22 - Taller Laravel - Parte 1  
+Aula 23 - Taller Laravel - Parte 2  
+Aula 24 - Taller Laravel - Parte 3
+Aula 25 - Foro Laravel  
+Aula 26 - Auth com confirmação por email  
 Aula 27 - Menu dinâmico - Parte frontal - Biblioteca  
 Aula 28 - Fim do CRUD Menu  
 Aula 29 - Sistema de Permisos - Parte I  
 Aula 30 - Sistema de Permisos - Parte II (Permiso-Rol)  
 Aula 31 - Cache em Laravel  
+Aula 32 - Library Laravel Permission  
+Aula 33 - Recuperação de senha e Mailtrap  
 Aula 34 - CRUD Usuário I  
-Aula 35 - CRUD Usuário II  
-Aula 35 - CRUD Usuário III  
+Aula 35 - CRUD Usuário II - Validator  
+Aula 36 - CRUD Usuário III - Sync Laravel  
+Aula 37 - Clonar repositório  
+Aula 38 - Update 6.0 e mudanças importantes  
+Aula 39 - Mudanças importantes - Parte 2
 Aula 40 - Autenticação com vários roles - I  
 Aula 41 - Autenticação com vários roles - II  
 Aula 42 - Subir arquivos e tratamento de imagens  
